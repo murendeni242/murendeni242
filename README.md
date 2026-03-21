@@ -1,4 +1,4 @@
-# Hi, I'm Murendeni Mulaudzi 👋
+# Hi, I'm Murendeni Mulaudzi
 
 Full-Stack .NET Developer  
 Johannesburg, South Africa  
@@ -7,7 +7,7 @@ ASP.NET Core | React | SQL Server | Clean Architecture
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Full-Stack .NET Developer with 3+ years of experience building and supporting enterprise financial systems in SLA-driven fintech environments.
 
@@ -24,7 +24,7 @@ I specialize in building secure, maintainable systems using:
 
 ---
 
-## 🧱 Architecture & Engineering Approach
+## Architecture & Engineering Approach
 
 - Clean Architecture (Domain, Application, Infrastructure, API separation)
 - Repository Pattern
@@ -38,11 +38,11 @@ I focus on writing scalable, testable, and maintainable systems.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 Tuck Shop Management System  
+### Tuck Shop Management System  
 ASP.NET Core 8 + React 18  
-🔗 https://github.com/murendeni242/tuck-shop-app
+ https://github.com/murendeni242/tuck-shop-app
 
 - Full Clean Architecture implementation
 - Custom JWT authentication & password hashing
